@@ -1,4 +1,4 @@
-GISJOIN,city,state,website_available,website_URL
+GISJOIN,CITY,STATE,WEBSITE_AVAILABLE,WEBSITE_URL
 G36051000,New York,New York,1,https://www.nyc.gov/
 G06044000,Los Angeles,California,1,https://www.lacity.org/
 G17014000,Chicago,Illinois,1,https://www.chicago.gov/
