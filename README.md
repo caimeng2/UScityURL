@@ -10,19 +10,4 @@ UScityURL is a complete collection of the official web addresses of all the 1951
 
 This work is under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-## How to Cite
-
-To cite this dataset in publications:
-
-M Cai, H Huang, T Decaminada (under review). Local data at a national scale: introducing a dataset of official municipal websites in the United States for text-based analytics. DOI: 10.5281/zenodo.7665175
-
-A BibTeX entry for LaTeX:
-
-```
-  @Article{,
-    title = {SDGdetector: an R-based text mining tool for quantifying efforts toward Sustainable Development Goals},
-    author = {Meng Cai and Huiqing Huang and Travis Decaminada},
-    url = {https://github.com/caimeng2/UScityURL},
-  }
-```
-
+Cite as: M Cai, H Huang, T Decaminada. Local data at a national scale: introducing a dataset of official municipal websites in the United States for text-based analytics. DOI: 10.5281/zenodo.7665175
