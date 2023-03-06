@@ -12,4 +12,4 @@ UScityURL is a complete collection of the official web addresses of all the 1951
 
 This work is under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Cite as: M Cai, H Huang, T Decaminada. Local data at a national scale: introducing a dataset of official municipal websites in the United States for text-based analytics. DOI: 10.5281/zenodo.7665175
+Cite as: Cai, Meng, Huang, Huiqing, & Decaminada, Travis. (2023). caimeng2/UScityURL: v1.0 (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7665175
