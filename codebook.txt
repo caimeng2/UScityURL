@@ -1,10 +1,9 @@
-Codebook for UScityURL
+Codebook for UScityURL.csv
 
 The dataset was collected in September 2022. 
-It has five fields: GISJOIN, CITY, STATE, WEBSITE_AVAILABLE, and WEBSITE_URL. 
-- GISJOIN: a unique identifier for each municipality to connect with the spatial files (i.e., shapefiles) and the Census data, which could be obtained from the National Historical Geographic Information System (https://www.nhgis.org/). 
-- CITY: city name.
-- STATE: state name.
-- WEBSITE_AVAILABLE: if an official website is available for a city: 1 means available and 0 means not available.
-- WEBSITE_URL: the web address of a city.
-
+It has five fields: GEOID, MUNICIPALITY, STATE, WEBSITE_AVAILABLE, and WEBSITE_URL. 
+- GEOID: A unique identifier for each municipality to connect with geographic and demographic data from the US Census. More information about GEOID is available at https://www.census.gov/programs-surveys/geography/guidance/geo-identifiers.html.
+- MUNICIPALITY: Municipality name.
+- STATE: State name.
+- WEBSITE_AVAILABLE: If an official website is available for a municipality: 1 means available and 0 means not available.
+- WEBSITE_URL: The web address of a municipality.
