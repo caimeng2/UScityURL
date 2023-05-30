@@ -12,7 +12,7 @@ Using Google Custom Search API with this dataset allows researchers to systemati
 
 ## Maintenance of the dataset
 
-Please report [issues] (https://github.com/caimeng2/UScityURL/issues) if you find a website address is wrong or out of date. 
+Please report [issues](https://github.com/caimeng2/UScityURL/issues) if you find a website address is wrong or out of date. 
 
 ## License
 
