@@ -10,6 +10,10 @@ UScityURL is a complete and manually verified dataset containing information on 
 
 Using Google Custom Search API with this dataset allows researchers to systematically search self-defined keywords on municipal websites. The returned search results pinpoint where a certain topic is being discussed and can be used for further text-based analysis. Please run `how_to_use_tutorial.ipynb` to see detailed instructions and an example.
 
+## Maintenance of the dataset
+
+Please report [issues] (https://github.com/caimeng2/UScityURL/issues) if you find a website address is wrong or out of date. 
+
 ## License
 
 This work is under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Anyone is allowed to adapt, modify, and distribute this work with proper citation.
