@@ -20,4 +20,4 @@ This work is under a Creative Commons Attribution 4.0 International License (CC 
 
 ## Citation
 
-Cite as: Cai, Meng, Huang, Huiqing, & Decaminada, Travis. (2023). caimeng2/UScityURL: v1.0 (v1.0) [Data set]. Zenodo. [![DOI](https://zenodo.org/badge/604179713.svg)](https://zenodo.org/badge/latestdoi/604179713)
+Cai, Meng, Huang, Huiqing, & Decaminada, Travis. (2023). Local data at a national scale: Introducing a dataset of official municipal websites in the United States for text-based analytics. Environment and Planning B: Urban Analytics and City Science, 0(0). https://doi.org/10.1177/23998083231190961
