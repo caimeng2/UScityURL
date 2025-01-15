@@ -2581,7 +2581,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_AVAILABLE,WEBSITE_URL
 1600000US4269720,Sharon,Pennsylvania,1,https://www.cityofsharon.net/
 1600000US3983090,West Carrollton,Ohio,1,https://www.westcarrollton.org/
 1600000US3922456,Dover,Ohio,1,https://www.doverohio.com/
-1600000US2280955,West Monroe,Louisiana,1,https://www.westmonroe.com/
+1600000US2280955,West Monroe,Louisiana,1,https://www.cityofwestmonroe.com/
 1600000US2412400,Cambridge,Maryland,1,https://www.choosecambridge.com/
 1600000US0875640,Superior,Colorado,1,https://www.superiorcolorado.gov/
 1600000US1222975,Florida City,Florida,1,http://www.floridacityfl.gov/
@@ -18046,7 +18046,7 @@ GEOID,MUNICIPALITY,STATE,WEBSITE_AVAILABLE,WEBSITE_URL
 1600000US3102620,Atlanta,Nebraska,0,
 1600000US2057525,Prairie View,Kansas,0,
 1600000US2050300,New Cambria,Kansas,0,
-1600000US1970140,St. Olaf,Iowa,1,https://wp.stolaf.edu/
+1600000US1970140,St. Olaf,Iowa,0,
 1600000US2913015,Chain-O-Lakes,Missouri,0,
 1600000US3831500,Goodrich,North Dakota,0,
 1600000US2026775,Goff,Kansas,0,
